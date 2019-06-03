@@ -1,4 +1,4 @@
-# google_test_app
+# Test App
 
 This app follows along Googles tutorial for the intro to Flutter. The
 design of the app is an infite list generted of startup names that you
@@ -10,3 +10,10 @@ how containers work as well as how flutter it self functions. There is still
 a lot to learn but hopefully I can expand on this knowledge some more in my 
 next projects.
 
+<div style="width:image width px; font-size:80%; text-align:center;">
+<img src="https://github.com/khallman97/First_App/blob/master/images/Main_Screen.PNG" width="20%" height="20%" style="padding-bottom:0.5em;" /> Main screen of app <div/>
+  
+<div style="width:image width px; font-size:80%; text-align:center;">
+<img src="https://github.com/khallman97/First_App/blob/master/images/Fav_Screen.PNG" width="20%" height="20%" style="padding-bottom:0.5em;" /> Favourite screen <div/>
+  
+ 
