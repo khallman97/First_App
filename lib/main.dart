@@ -53,10 +53,13 @@ class RandomWordsState extends State<RandomWords> {
           // return _buildRow(_suggestions[index]);
           bool alreadySaved = _saved.contains(_suggestions[index]);
           return Card(
+            color: Color.fromRGBO(14, 37, 73, 0.4),
               child: ListTile(
+            
             title: Text(
               _suggestions[index].asPascalCase,
-              // style:TextStyle(color: Colors.grey[300])
+              style:TextStyle(color: Colors.grey[200]),
+              
             ),
             trailing: Icon(
               // Add the lines from here...
